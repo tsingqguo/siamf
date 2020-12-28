@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="temp@155.69.147.235:32884" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="temp@155.69.147.235:32884">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/nvme/siamf" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/mnt/nvme/siamf/testing_dataset" />
+            <excludedPath path="/mnt/nvme/siamf/training_dataset" />
+            <excludedPath path="/mnt/nvme/siamf/demo" />
+            <excludedPath path="/mnt/nvme/siamf/venv" />
+            <excludedPath path="/mnt/nvme/siamf/pretrained_models" />
+            <excludedPath path="/mnt/nvme/siamf/experiments" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------
+|               Tracker name                | Success | Norm Precision | Precision |
+------------------------------------------------------------------------------------
+| model_lambdav20_lambdau20_lrv0.06_lru0.06 |  0.667  |     0.000      |   0.878   |
+| model_lambdav10_lambdau10_lrv0.14_lru0.14 |  0.665  |     0.000      |   0.875   |
+| model_lambdav20_lambdau20_lrv0.08_lru0.08 |  0.665  |     0.000      |   0.874   |
+| model_lambdav10_lambdau10_lrv0.06_lru0.06 |  0.663  |     0.000      |   0.873   |
+| model_lambdav10_lambdau10_lrv0.12_lru0.12 |  0.663  |     0.000      |   0.869   |
+| model_lambdav20_lambdau20_lrv0.16_lru0.16 |  0.662  |     0.000      |   0.869   |
+| model_lambdav10_lambdau10_lrv0.08_lru0.08 |  0.662  |     0.000      |   0.871   |
+| model_lambdav10_lambdau10_lrv0.16_lru0.16 |  0.662  |     0.000      |   0.872   |
+|  model_lambdav1_lambdau1_lrv0.12_lru0.12  |  0.662  |     0.000      |   0.871   |
+| model_lambdav10_lambdau10_lrv0.04_lru0.04 |  0.661  |     0.000      |   0.869   |
+| model_lambdav30_lambdau30_lrv0.14_lru0.14 |  0.660  |     0.000      |   0.868   |
+|   model_lambdav1_lambdau1_lrv0.1_lru0.1   |  0.660  |     0.000      |   0.869   |
+| model_lambdav20_lambdau20_lrv0.04_lru0.04 |  0.660  |     0.000      |   0.866   |
+| model_lambdav20_lambdau20_lrv0.14_lru0.14 |  0.659  |     0.000      |   0.867   |
+|  model_lambdav1_lambdau1_lrv0.16_lru0.16  |  0.659  |     0.000      |   0.867   |
+|  model_lambdav1_lambdau1_lrv0.14_lru0.14  |  0.659  |     0.000      |   0.867   |
+| model_lambdav30_lambdau30_lrv0.08_lru0.08 |  0.659  |     0.000      |   0.865   |
+| model_lambdav20_lambdau20_lrv0.12_lru0.12 |  0.658  |     0.000      |   0.867   |
+|  model_lambdav1_lambdau1_lrv0.02_lru0.02  |  0.658  |     0.000      |   0.864   |
+| model_lambdav20_lambdau20_lrv0.02_lru0.02 |  0.658  |     0.000      |   0.863   |
+------------------------------------------------------------------------------------
